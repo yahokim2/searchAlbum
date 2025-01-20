@@ -1,0 +1,5 @@
+Image 1 (demo1.jpg): a living room with a couch, chair and rug
+Image 2 (demo2.jpg): christmas market in stockholm
+Image 3 (demo3.jpg): a path leading to a lake with mountains in the background
+Image 4 (demo4.jpg): a train on the tracks
+Image 5 (demo5.png): a man in a suit and tie is raising his arms up

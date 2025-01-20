@@ -13,8 +13,8 @@ from PIL import Image
 from ram.models import ram_plus
 from ram import inference_ram as inference
 from ram import get_transform
-from gtts import gTTS
-import pygame
+#from gtts import gTTS
+#import pygame
 import os
 import cv2
 import time
